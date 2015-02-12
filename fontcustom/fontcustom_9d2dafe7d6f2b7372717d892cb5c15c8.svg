@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-1-30: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20141231 at Fri Jan 30 14:17:23 2015
+ By Jamie Johnson
+Copyright (c) 2015, Jamie Johnson
+</metadata>
+<defs>
+<font id="fontcustom" horiz-adv-x="512" >
+  <font-face 
+    font-family="fontcustom"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="75.2637 24.5762 436.736 371.029"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M376.49 251.051l-119.466 -120.832l-121.515 120.832h56.3193v119.979h123.562v-119.979h61.0986zM377.173 145.237h59.5635v-120.661h-361.473v120.661h60.2461v-60.416h241.663v60.416z" />
+  </font>
+</defs></svg>
